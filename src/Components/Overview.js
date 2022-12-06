@@ -27,7 +27,7 @@ const Overview = () => {
                         <td>Capitol: </td>
                         {currentDisplay.capital.map((e) => (
                             <td>{e}</td>
-                        ))} //error
+                        ))} 
                     </tr>
                     <tr>
                         <td>Population: </td>
